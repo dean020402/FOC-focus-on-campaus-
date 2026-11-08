@@ -1,0 +1,14 @@
+{
+  "pythonVersion": "3.12",
+  "venvPath": ".",
+  "venv": ".venv",
+  "extraPaths": ["src"],
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "python": ".venv/Scripts/python.exe",
+      "extraPaths": ["src"],
+      "pythonVersion": "3.12"
+    }
+  ]
+}
