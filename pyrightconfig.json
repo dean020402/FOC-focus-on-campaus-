@@ -1,0 +1,13 @@
+{
+  "pythonVersion": "3.12",
+  "executionEnvironments": [
+    {
+      "root": "backend",
+      "python": "backend/.venv/Scripts/python.exe",
+      "extraPaths": ["backend/src"],
+      "pythonVersion": "3.12",
+      "venvPath": "backend",
+      "venv": ".venv"
+    }
+  ]
+}
